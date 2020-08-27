@@ -7,4 +7,4 @@
 
 ## Запуск файла:
 
-python 3 main.py
+`python 3 main.py`
