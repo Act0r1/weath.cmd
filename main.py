@@ -1,4 +1,6 @@
 import requests
+
+
 payload = {'m':'','T':'','q':'','u':'','lang':'ru'}
 cities = ['Лондон', 'svo', 'Череповец']
 for city in cities:
