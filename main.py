@@ -6,4 +6,3 @@ for city in cities:
     response = requests.get(url, params=payload)
     response.raise_for_status()
     print(response.text)
-#http://wttr.in/london?mTqu&lang=ru
