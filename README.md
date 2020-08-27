@@ -3,8 +3,8 @@
 ### Этот проект позволяет получать погоду с сайта wttr.in В таких местах, как Лондон, Шереметьево и Череповец
 
 # Подготовка к запуску:
-### pip install -r requirements.txt  
+`pip install -r requirements.txt`  
 
 ## Запуск файла:
 
-`python 3 main.py`
+`python3 main.py`
